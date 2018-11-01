@@ -19,5 +19,5 @@ public class G7 {
         System.out.println("Moshi Moshi !");
         System.out.println("Anneonghaseyo !");
     }
-    
 }
+
