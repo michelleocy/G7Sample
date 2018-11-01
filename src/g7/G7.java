@@ -17,6 +17,7 @@ public class G7 {
     public static void main(String[] args) {
         System.out.println("Hello World !");
         System.out.println("Moshi Moshi !");
+        System.out.println("Anneonghaseyo !");
     }
     
 }
